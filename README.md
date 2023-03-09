@@ -21,5 +21,5 @@
   ![image](https://user-images.githubusercontent.com/82578024/223987570-5e40ab95-ce69-4759-9aaa-0dc2bdac78e8.png)
 
 - **Lúc này một dãy 10 số BHXH sẽ được cấp**
-- **Anh/chị thêm mã TE196 vào phía trước và chọn nơi đăng ký là 96000**
+- **Anh/chị thêm mã TE196 vào phía trước và chọn nơi đăng ký là 96025**
 - **Chúc thành công!**
