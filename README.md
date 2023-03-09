@@ -1,4 +1,4 @@
-# HƯỚNG DẪN LẤY SỐ BHYT CHO TRẺ EM CHƯA CÓ THẺ #
+# 1. HƯỚNG DẪN LẤY SỐ BHYT CHO TRẺ EM CHƯA CÓ THẺ #
 
 **Anh/ chị vào đường link: https://gdbhyt.baohiemxahoi.gov.vn/**
 
@@ -22,4 +22,19 @@
 
 - **Lúc này một dãy 10 số BHXH sẽ được cấp**
 - **Anh/chị thêm mã TE196 vào phía trước và chọn nơi đăng ký là 96025**
-- **Chúc thành công!**
+
+# 2. TRA CỨU THỜI HẠN SỬ DỤNG THẺ BHYT #
+
+- **Vào đường link: https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx**
+- Điền đầy đủ thông tin, bấm tôi không phải là người máy, bấm tra cứu:
+
+  ![image](https://user-images.githubusercontent.com/82578024/223997048-4b0052e0-40b2-4744-b357-07571eac107e.png)
+ - Kết quả:
+  ![image](https://user-images.githubusercontent.com/82578024/223997610-b5e14055-ac60-440c-8adb-50a2cb8c3e00.png)
+
+- Lưu ý: Đối tượng là quân đội, công an và thân nhân của họ thì không tra cứu được.
+
+# 3. ĐĂNG KÝ, ĐĂNG NHẬP VSSID, CỔNG BHXH VIỆT NAM #
+
+- Đường link đăng ký/ đăng nhập: https://dichvucong.baohiemxahoi.gov.vn/#/dang-ky
+- Cổng BHXH Việt Nam: https://dichvucong.baohiemxahoi.gov.vn/#/index
